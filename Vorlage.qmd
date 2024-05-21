@@ -1,0 +1,31 @@
+---
+title: "TITEL"
+subtitle: "UNTERTITEL"
+editor: visual
+format:
+  html:
+    theme: journal
+    toc: true
+---
+
+# Nützliches:
+
+hier ist ein Link für die Nutzung von Quarto: [Quarto Tutorial vom R Kurs von Brunner](https://r-23w-12.netlify.app/)
+
+## Tooltip (Hier ist ein Beispiel wie ihr ein tooltip machen könnt)
+
+Here is some text with a tooltip: [hover over me]{title="This is the tooltip text." style="font-style: italic;"}.
+
+# Overview
+
+# What is this study about?
+
+# What does this study find?
+
+# How does the Digital Psychology Lab teaching evaluate this study?
+
+# Conclusion for teaching practice
+
+# Study example
+
+# References
