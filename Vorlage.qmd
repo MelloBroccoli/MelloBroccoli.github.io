@@ -6,6 +6,7 @@ format:
   html:
     theme: journal
     toc: true
+    css: styles.css
 ---
 
 # Nützliches:
@@ -14,9 +15,27 @@ hier ist ein Link für die Nutzung von Quarto: [Quarto Tutorial vom R Kurs von B
 
 ## Tooltip (Hier ist ein Beispiel wie ihr ein tooltip machen könnt)
 
-Here is some text with a tooltip: [hover over me]{title="This is the tooltip text." style="font-style: italic;"}.
+Here is some text with a tooltip: <span class="hover-effect">[hover over me]{title="This is the tooltip text." style="font-weight: bold;"}.</span>
+
 
 # Overview
+
+## Focus of the study
+
+Investigating the efficacy of digital resilience training.
+
+## Target group
+
+Individuals aiming to improve their resilience, game developers and professionalists dealing with mental illnesses.
+
+## Effect size
+
+Moderate to strong effects (g = 0.54 - 1.09).
+
+## Further notable results
+
+Internet-based interventions with a flexible training schedule showed the most promising effects compared to other intervention types
+
 
 # What is this study about?
 
