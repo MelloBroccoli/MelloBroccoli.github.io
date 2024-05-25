@@ -15,8 +15,7 @@ hier ist ein Link für die Nutzung von Quarto: [Quarto Tutorial vom R Kurs von B
 
 ## Tooltip (Hier ist ein Beispiel wie ihr ein tooltip machen könnt)
 
-Here is some text with a tooltip: <span class="hover-effect">[hover over me]{title="This is the tooltip text." style="font-weight: bold;"}.</span>
-
+Here is some text with a tooltip: [hover over me]{title="This is the tooltip text." style="font-weight: bold;"}.
 
 # Overview
 
@@ -36,7 +35,6 @@ Moderate to strong effects (g = 0.54 - 1.09).
 
 Internet-based interventions with a flexible training schedule showed the most promising effects compared to other intervention types
 
-
 # What is this study about?
 
 # What does this study find?
@@ -53,6 +51,8 @@ The meta-analysis itself does a good job of inspecting the quality of the eviden
 
 # Quality of the evidence
 
-The evidence is not credible. The funnel plot and the Egger regression test indicate a publication bias. The risk of bias was not satisfactory for 19 out of the 22 included studies. Using the GRADE criteria the quality of the evidence ranges from very low to low. Altogether more high-quality studies need to be conducted before conclusive assertions can be made. 
+The evidence is not credible. The funnel plot and the Egger regression test indicate a publication bias. The risk of bias was not satisfactory for 19 out of the 22 included studies. Using the GRADE criteria the quality of the evidence ranges from very low to low. Altogether more high-quality studies need to be conducted before conclusive assertions can be made.
+
+![resilience](resilience.png.webp)
 
 # References
