@@ -47,4 +47,12 @@ Internet-based interventions with a flexible training schedule showed the most p
 
 # Study example
 
+# Quality of the meta-analysis
+
+The meta-analysis itself does a good job of inspecting the quality of the evidence. The quality of the evidence is a different question however.
+
+# Quality of the evidence
+
+The evidence is not credible. The funnel plot and the Egger regression test indicate a publication bias. The risk of bias was not satisfactory for 19 out of the 22 included studies. Using the GRADE criteria the quality of the evidence ranges from very low to low. Altogether more high-quality studies need to be conducted before conclusive assertions can be made. 
+
 # References
